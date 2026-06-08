@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment/password files
+.env
+
+# Excel/data files - do not upload patient data
+*.xlsx
+*.xls
+*.csv
+
+# Mac files
+.DS_Store
+
+
+
